@@ -1,0 +1,70 @@
+:root {
+  --primary: #0B556A;
+  --secondary: #3B82F6;
+  --accent: #10B981;
+  --background: #F8FAFC;
+  --text-dark: #1F2937;
+  --white: #ffffff;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--text-dark);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+  background: linear-gradient(135deg, var(--primary), var(--secondary));
+  color: var(--white);
+}
+
+footer {
+  background-color: var(--primary);
+  color: var(--white);
+}
+
+.btn-primary {
+  background-color: var(--accent);
+  border-color: var(--accent);
+}
+
+.btn-primary:hover {
+  background-color: #0f766e;
+  border-color: #0f766e;
+}
+
+section h2, section h3 {
+  color: var(--primary);
+  font-weight:800;
+}
+
+.bg-light {
+  background-color: var(--background) !important;
+}
+
+.border {
+  border-color: var(--secondary) !important;
+}
+.hero-section {
+  position: relative;
+  height: 45vh;
+  background-image: url('../assets/img/back1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.hero-section .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(30, 58, 138, 0.6); /* Adds dark blue transparent overlay */
+  z-index: 0;
+}
+
+.hero-section .container {
+  z-index: 1;
+  position: relative;
+}
