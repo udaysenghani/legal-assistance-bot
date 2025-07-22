@@ -31,7 +31,7 @@ This project aligns with **United Nation SDG 16**:
 
 | Tool/Platform           | Purpose                             |
 |------------------------|-------------------------------------|
-| Microsoft Copilot Studio | Chatbot creation (low-code)       |
+| Microsoft Copilot Studio | Chatbot creation                   |
 | Power Automate         | Backend logic & workflow integration |
 | IBM SkillsBuild        | AI-ML training & ethics resources   |
 | GitHub                 | Project documentation               |
