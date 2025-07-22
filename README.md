@@ -48,10 +48,9 @@ This project aligns with **United Nation SDG 16**:
 
 ---
 
-## 📸 Screenshots / Demo
+## 📸 Live Demo
 
-> 📌 Add screenshots of your chatbot in action (Copilot Studio interface) here.
-
+> 📌 https://udaysenghani.github.io/legal-assistance-bot
 ---
 
 ## 🧪 How to Use
@@ -75,7 +74,7 @@ This project aligns with **United Nation SDG 16**:
 
 For feedback or collaboration, reach out to:
 
-- Email: [udaysenghani06@gmail.com].
-- GitHub: [github.com/udaysenghani]
+- Email: udaysenghani06@gmail.com
+- GitHub: github.com/udaysenghani
 
 ---
