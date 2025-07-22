@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-**JusticeConnect Bot** is an AI-powered chatbot built using **Microsoft Copilot Studio**. It empowers citizens to anonymously report crimes, learn their legal rights, and find nearby legal aid centers. The bot is designed to be accessible via multiple digital platforms and aims to support communities with limited access to legal knowledge or institutions.
+**Legal Assistance Bot** is an AI-powered chatbot built using **Microsoft Copilot Studio**. It empowers citizens to anonymously report crimes, learn their legal rights, and find nearby legal aid centers. The bot is designed to be accessible via multiple digital platforms and aims to support communities with limited access to legal knowledge or institutions.
 
 ---
 
