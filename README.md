@@ -1,4 +1,4 @@
-# 🛡️ JusticeConnect Bot
+# 🛡️ Legal Assistance Bot
 
 > A conversational AI chatbot for anonymous crime reporting and legal awareness, supporting SDG 16: Peace, Justice & Strong Institutions.
 
